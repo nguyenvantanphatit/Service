@@ -1,0 +1,20 @@
+.notification {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .notification p {
+    margin: 0;
+  }
+  
+  .notification .title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .notification .content {
+    color: #888;
+  }
